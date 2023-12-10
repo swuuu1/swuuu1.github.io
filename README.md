@@ -1,4 +1,4 @@
-***NBA Player Comparison App***
+***[NBA Player Comparison App](https://github.com/swuuu1/swuuu1.github.io)***
 
 **1. Big Idea/Goal/Why did we do this?**
 

@@ -80,6 +80,7 @@ However, we had issues downloading the API, likely because it was outdated, so o
 To finish the project, we needed to turn a website filled with hundreds of different metrics into one figure to measure player value. We researched many articles by basketball experts and analysts, and we decided on Statistical Player Value (SPV). We picked the stats we needed from the dictionaries we gathered from web scraping and put them in an algorithm to return our single number. Finally, we had accomplished our goal. 
 
 **Attribution**
+We scraped [Basketball Reference](https://www.basketball-reference.com/) avidly.
 
 We used [this article from NBAstuffer](https://www.nbastuffer.com/analytics101/statistical-player-value-spv/#:~:text=The%20stat%20elements%20included%20in,the%20SPV%20for%20that%20game) to understand SPV. 
  
